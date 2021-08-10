@@ -35,6 +35,9 @@ WordPress | shopify
 ### デザインツール
 Illustrator | Photoshop　| XD | Figma | InVision Studio
 
+### NoCodeツール
+Adalo
+
 ## 趣味で成果物を作成したことがある技術
 
 ### 言語
@@ -70,13 +73,6 @@ MySQL | SQLite
 - フロントエンドで完結する新規機能作成（アジャイル開発）
 - メルマガの作成
 - C# .NET Frameworkを用いた管理画面の作成
-
-【担当業務】
-- マネタイズポイントなどアプリの仕様定義
-- InViSionStudioを使用しUI作成
-- NoCodeツールAdaloを用いたアプリ実装
-- 各プラットフォーム（iOS,android）でのリリース
-- 共同開発者のタスク管理
 
 ### shopifyによるECサイトの構築（2020年）
 【プロジェクト概要】　新規ECサイトの構築。プラットフォームの選択からリリースまで全てを一人で担当
